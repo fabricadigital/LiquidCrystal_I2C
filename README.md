@@ -1,2 +1,2 @@
 # LiquidCrystal_I2C
-LiquidCrystal Arduino library for the DFRobot I2C LCD displays
+Personalización de la librería LiquidCrystal_I2C de Marco Schwartz con ejemplos modificados para simplificar el aprendizaje.
